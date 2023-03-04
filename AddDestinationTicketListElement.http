@@ -1,0 +1,8 @@
+POST http://localhost:9090/destinationTickets
+Content-Type: application/json
+
+{
+  "name": "Bucharest",
+  "desc": "The Little Paris of Eastern Europe",
+  "priority": 4
+}
